@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @swachitta
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @swachitta.I am a software engineering Student.
+- 👀 I’m interested in everything.
+- ⚡ Fun fact: I am addicted to coding and songs .
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫Connect with me :
+- https://www.facebook.com/swachitta.gurung.5/
 
 <!---
 swachitta/swachitta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
